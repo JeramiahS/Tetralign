@@ -9,4 +9,4 @@ on their own at a predetermined rate of speed based on the current game level. A
 fall at a faster rate of speed. The player has the ability to speed up this process by moving the block down using the
 keyboard. The player's score is determined by how many blocks the player is able to place within the time limit.
 Players will have the ability to keep track of their personal high score and highest played level, and they will also be
-able to see other players' highest scores and levels. Compete with your friends for the highest score!
+able to see other players' highest scores and levels.
